@@ -1,0 +1,17 @@
+{
+  "name": "apply-2024",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fillout/react": "^1.1.2",
+    "next": "14.2.7",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
