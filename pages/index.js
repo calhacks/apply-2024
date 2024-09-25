@@ -2,7 +2,7 @@ import { FilloutFullScreenEmbed } from "@fillout/react";
 import Head from "next/head";
 
 function App() {
-  let description = `Apply before October 1st for priority admission, all applications due by October 10th.`
+  let description = `All applications due by September 30th.`
   let image = null
   return (
     <>
